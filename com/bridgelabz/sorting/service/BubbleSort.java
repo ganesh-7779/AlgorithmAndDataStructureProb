@@ -1,6 +1,7 @@
 package com.bridgelabz.sorting.service;
 
-import util.ArrayMethod;
+
+import com.bridgelabz.sorting.util.ArrayMethod;
 
 public class BubbleSort {
 	// Declaring array size and the array
